@@ -22,6 +22,7 @@ Lihat `.env.example`. Tiga yang wajib:
 
 ## Setelah deploy pertama kali
 
+
 1. Buka `https://<domain-aplikasi>/api/setup` sekali di browser. Ini otomatis
    membuat semua tab (customers, projects, invoices, dst.) beserta header
    kolomnya di spreadsheet — tidak perlu bikin tab manual.
