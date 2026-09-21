@@ -38,7 +38,7 @@ cp .env.example .env.local   # isi dengan kredensial asli
 npm run dev
 ```
 
-## Status pengembangan
+## Status pengembangan 
 
 Sudah ada: dashboard ringkasan, daftar & detail project (dengan hitung profit
 otomatis), daftar invoice, daftar biaya, tambah pelanggan, tambah project.
