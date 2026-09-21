@@ -1,0 +1,12 @@
+{
+  "name": "Rémen — Manajemen Catering",
+  "short_name": "Rémen",
+  "description": "Pembukuan, invoicing, dan profit per project untuk usaha catering.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF9EF",
+  "theme_color": "#F5B30D",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
